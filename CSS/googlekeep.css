@@ -1,0 +1,201 @@
+.box{
+    border: 6px solid wheat;
+    width: 100%;
+    height: 8vh;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+   
+}
+.box1
+{
+    
+    display: flex;
+    
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.boxa
+{
+    
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.boxb
+{
+    
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.box2
+{
+    
+    width: 80vw;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.boxd
+{
+    
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.boxe
+{
+    
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.searchbar{
+    width: 500px;
+    height: 30px;
+}
+.box3
+{
+    
+    width: 80vw;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.boxf
+{
+    
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.boxg
+{
+    
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.boxh
+{
+    
+    position: relative;
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-end;
+    align-items: center;
+
+}
+
+.takenoteone
+{
+   width: 35%;
+   height: 40px;
+   border: 1px solid gray;
+   position: relative;
+   left: 400px;
+   top: 100px;
+   display: flex;
+   border-radius: 10px;
+
+}
+.childone{
+    width: 70%;
+   height: 100%;
+ 
+   display: flex;
+   align-items: center;
+
+
+}
+.sidenote
+{
+    display: flex;
+    flex-direction: ;
+}
+.mark{
+    margin-left: 20px;
+}
+.childtwo
+{
+   width: 30%;
+   height: 100%;
+  
+   display: flex;
+  
+
+}
+.addnote{
+    border: 2px solid grey;
+    width: 35%;
+    height: 150px;
+    position: relative;
+    left: 400px;
+    top: 100px;
+    display: flex;
+    border-radius: 10px;
+}
+.addnotetwo
+{
+   
+    width: 100%;
+    height: 40px;
+    position: relative;
+    top:30px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.addnotethree
+{
+    
+    width: 100vw;
+    height: 40%;
+    position: relative;
+    top: 80px;    
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+}
+#pin{
+    position: relative;
+    /* top: 10%;
+    left: 30%; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}

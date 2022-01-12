@@ -1,0 +1,19 @@
+.box{
+    border: 2px solid red;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.minibox
+{
+    border: 2px solid blueviolet;
+    width: 100px;
+    height: 100px;
+
+}
